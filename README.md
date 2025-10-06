@@ -106,7 +106,7 @@ cd FrogSpecies-Analysis
 
 ### Launch Jupyter Notebook:
 
-jupyter notebook (FrogSpecies)[FrogSpecies.ipynb]
+jupyter notebook [FrogSpecies](FrogSpecies.ipynb)
 
 
 ---
