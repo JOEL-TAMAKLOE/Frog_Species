@@ -16,7 +16,6 @@ Regional diversity of frog species.
 
 Correlations between species distribution and climate conditions.
 
-The analysis is performed using a Jupyter Notebook (FrogSpecies.ipynb), leveraging Python’s data science ecosystem.
 
 ---
 
@@ -55,29 +54,26 @@ FrogSpecies-Analysis/
 
 ## 🔍 Analytical Steps
 
-Data Loading & Cleaning
+- Data Loading & Cleaning
 
-Imported dataset
+- Checked and handled missing or inconsistent values
 
-Checked and handled missing or inconsistent values
+- Exploratory Data Analysis (EDA)
 
-Exploratory Data Analysis (EDA)
+- Examined species diversity by continent and province
 
-Examined species diversity by continent and province
+- Visualized temperature distributions
 
-Visualized temperature distributions
+- Correlation Analysis
 
-Correlation Analysis
+- Identified relationships between habitat temperature and species distribution
 
-Identified relationships between habitat temperature and species distribution
+- Insights Extraction
 
-Insights Extraction
-
-Derived meaningful ecological and geographical conclusions
 
 ---
 
-## 📊 Key Insights (Replace with Real Findings)
+## 📊 Key Insights 
 
 - Tropical regions exhibited the highest diversity of frog species due to moderate to high temperatures.
 
@@ -131,7 +127,7 @@ The notebook contains visual insights such as:
 ---
 
 ## Contribution Guidelines
-Contributions are welcome!If you have ideas for improvements, feel free to fork the repository and submit a pull request. For significant changes, please open an issue first to discuss your proposed changes.
+Contributions are welcome! If you have ideas for improvements, feel free to fork the repository and submit a pull request. For significant changes, please open an issue first to discuss your proposed changes.
 
 ---
 
