@@ -35,10 +35,8 @@ Correlations between species distribution and climate conditions.
 ```plaintext
 FrogSpecies-Analysis/
 │
-├── README.md                # Project documentation (you’re reading it now)
+├── README.md                # Project documentation
 ├── FrogSpecies.ipynb        # Jupyter Notebook containing data analysis
-└── data/                    # (Optional) Folder for dataset if stored separately
-    └── frog_species.csv     # Example dataset file
 ```
 
 ---
